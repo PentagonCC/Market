@@ -1,0 +1,13 @@
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\bin\Debug\netcoreapp3.1\Container(4-1).exe
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\bin\Debug\netcoreapp3.1\Container(4-1).deps.json
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\bin\Debug\netcoreapp3.1\Container(4-1).runtimeconfig.json
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\bin\Debug\netcoreapp3.1\Container(4-1).runtimeconfig.dev.json
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\bin\Debug\netcoreapp3.1\Container(4-1).dll
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\bin\Debug\netcoreapp3.1\Container(4-1).pdb
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).csprojAssemblyReference.cache
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).AssemblyInfoInputs.cache
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).AssemblyInfo.cs
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).csproj.CoreCompileInputs.cache
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).dll
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).pdb
+Z:\Факультет Информационных Технологий\NDIvanov\ООП\Container(4-1)\Container(4-1)\obj\Debug\netcoreapp3.1\Container(4-1).genruntimeconfig.cache
